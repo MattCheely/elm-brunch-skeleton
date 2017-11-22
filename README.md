@@ -12,7 +12,7 @@ This brunch skeleton for elm is using these plugins:
 ### Install
 
 `npm install`  
-`elm package install`
+`npx elm-package install`
     
 ### Run
 
